@@ -1,0 +1,19 @@
+body{
+  display:flex;
+  flex-direction:vertical;
+  justify-content: center;
+  text-align: center;
+}
+#ncyu{
+  position: relative;
+  border: solid 5px yellow;
+  top: 50px;
+  left:0px;
+  width:500px;
+  height: auto;
+  margin-right:50px;
+}
+
+#ico{
+  width: 500px;
+}
