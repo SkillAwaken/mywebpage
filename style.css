@@ -1,0 +1,16 @@
+body{
+	text-align: center;
+}
+.btn{
+	border: solid 3px black;
+	width: 100px;
+	height: 100px;
+	display: inline;
+	font-size: 30px;
+	color: red;
+	background-color: #9fffff;
+}
+hl{
+	font-size: 90px;
+	font-family: 標楷體;
+}
